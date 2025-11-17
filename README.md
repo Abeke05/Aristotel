@@ -67,3 +67,6 @@ pnpm run dev
 pnpm run build
 ```
 # Aristotel
+## Онлайн версия приложения
+
+[Открыть проект Aristotel](https://aristotel-g8fvtg9gx27wdkligajrvc.streamlit.app/) — откроется на компьютере, смартфоне или планшете!

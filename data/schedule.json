@@ -1,0 +1,56 @@
+[
+  {
+    "id": "9a3f7040-3103-45ed-a822-47eb1f8b0c16",
+    "subject": "Математика",
+    "day_of_week": "Понедельник",
+    "time_slot": "09:00-10:30",
+    "room": "101",
+    "teacher_id": "f2238587-a70e-42b3-853a-3ea06dd40eac",
+    "created_at": "2025-11-11T09:28:47.079286"
+  },
+  {
+    "id": "da0da3d5-8113-458a-b9ca-21af98d2553c",
+    "subject": "Физика",
+    "day_of_week": "Понедельник",
+    "time_slot": "11:00-12:30",
+    "room": "102",
+    "teacher_id": "f2238587-a70e-42b3-853a-3ea06dd40eac",
+    "created_at": "2025-11-11T09:28:47.079307"
+  },
+  {
+    "id": "f33ff289-e527-4d1e-9dc1-97b53a0c7f4f",
+    "subject": "Химия",
+    "day_of_week": "Вторник",
+    "time_slot": "09:00-10:30",
+    "room": "103",
+    "teacher_id": "f2238587-a70e-42b3-853a-3ea06dd40eac",
+    "created_at": "2025-11-11T09:28:47.079315"
+  },
+  {
+    "id": "f90a8ce7-5db7-4086-96b8-cd200d4cc256",
+    "subject": "Математика",
+    "day_of_week": "Среда",
+    "time_slot": "10:00-11:30",
+    "room": "101",
+    "teacher_id": "f2238587-a70e-42b3-853a-3ea06dd40eac",
+    "created_at": "2025-11-11T09:28:47.079322"
+  },
+  {
+    "id": "0d58d56a-f09c-432a-9453-8d7d5c79ce5a",
+    "subject": "Физика",
+    "day_of_week": "Четверг",
+    "time_slot": "14:00-15:30",
+    "room": "102",
+    "teacher_id": "f2238587-a70e-42b3-853a-3ea06dd40eac",
+    "created_at": "2025-11-11T09:28:47.079336"
+  },
+  {
+    "id": "37b42786-2a31-410a-90d9-970630bb898a",
+    "subject": "физика",
+    "day_of_week": "Понедельник",
+    "time_slot": "12.30",
+    "room": "105",
+    "teacher_id": "bb79408a-2fa5-4cdb-9778-669613108f36",
+    "created_at": "2025-11-12T15:43:43.962089"
+  }
+]
